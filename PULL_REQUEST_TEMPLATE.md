@@ -26,12 +26,12 @@ If you made a social media post about today’s task, include the link here:
 
 ## Checklist
 
-- [*] I have completed the task as described in `DayX/tasks.md`.
-- [*] I have updated the `daily-update.md` file with my details.
-- [*] I have written and published a blog post about today's task.
-- [*] I have made a social media post about today's task.
-- [*] I have used the required hashtags in my social media post.
-- [*] I have followed the repository's contribution guidelines.
-- [*] My code follows the repository's coding standards and best practices.
+- [X] I have completed the task as described in `DayX/tasks.md`.
+- [X] I have updated the `daily-update.md` file with my details.
+- [X] I have written and published a blog post about today's task.
+- [X] I have made a social media post about today's task.
+- [X] I have used the required hashtags in my social media post.
+- [X] I have followed the repository's contribution guidelines.
+- [X] My code follows the repository's coding standards and best practices.
 
 
