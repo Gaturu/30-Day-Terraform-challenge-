@@ -26,7 +26,7 @@ If you made a social media post about today’s task, include the link here:
 
 ## Checklist
 
-- [X] I have completed the task as described in `DayX/tasks.md`.
+- [X] I have completed the task as described in `Day1/tasks.md`.
 - [X] I have updated the `daily-update.md` file with my details.
 - [X] I have written and published a blog post about today's task.
 - [X] I have made a social media post about today's task.
